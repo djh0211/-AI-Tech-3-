@@ -1,2 +1,2 @@
-# -AI-Tech-3-
-RecSys
+# 부스트캠프 AI Tech
+### RecSys
